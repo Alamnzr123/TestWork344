@@ -8,10 +8,6 @@
 **TestWork344** is a landing page template built on top of Wordpress and fully coded in **PHP**.
 Landing page is designed using Storefront Theme.
 
-## Live Demo
-
-Take a look the live demo here 👉 [https://starterpack-reactjs-3.vercel.app/](https://starterpack-reactjs-3.vercel.app/)
-
 ## Getting Started
 
 This is a [PHP](https://www.php.net/) project bootstrapped with [Wordpress](https://wordpress.org/download/).
